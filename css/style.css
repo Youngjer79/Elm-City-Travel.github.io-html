@@ -54,8 +54,8 @@ p {
   top: 0;
   width: 100%;
   height: 100vh;
-  background:url("https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
-  background-size: cover;
+  background:url("../img/bannerbg.jpeg");
+  background-size: cover;z
   background-repeat: no-repeat;
   margin-bottom: 0;
 }
