@@ -162,7 +162,7 @@ p {
 }
 .sec2 {
   position: relative;
-  background: url("../img/banner2.jpeg");
+  background: url("/img/bannerbg.jpeg");
   background-size: cover;
   height: 100vh;
 }
@@ -225,7 +225,7 @@ p {
 .contact {
   position: relative;
   padding: 100px 0;
-  background: url("../img/contactBg.jpeg");
+  background: url("/img/bannerbg.jpeg");
   background-size: cover;
   min-height: 100vh;
 }
