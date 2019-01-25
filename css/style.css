@@ -46,7 +46,7 @@ p {
 .navbar-light .navbar-brand:focus,
 .navbar-light .navbar-brand:visited {
   color: rgba(255, 255, 255, 1);
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   font-weight: 600;
 }
 .banner {
